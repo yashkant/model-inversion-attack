@@ -11,3 +11,6 @@ The important dependencies of this project include:
 - Matplotlib
 
 # Directions to Use 
+
+1. Download the AT&T Face Dataset from [here](http://www.cl.cam.ac.uk/research/dtg/attarchive/facedatabase.html)
+2. Extract the dataset and replace the path variable in the 3rd cell of the inversion notebook. 
