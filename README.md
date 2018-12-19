@@ -10,6 +10,8 @@ The important dependencies of this project include:
 - Pylearn2
 - Matplotlib
 
+In case you run into some trouble installing the dependencies take a look at this [issue](https://github.com/yashkant/Model-Inversion-Attack/issues/1). 
+
 # Directions to Use 
 
 1. Download the AT&T Face Dataset from [here](http://www.cl.cam.ac.uk/research/dtg/attarchive/facedatabase.html)
