@@ -1,0 +1,16 @@
+name: fred-et-al
+channels:
+- anaconda
+- conda-forge
+- defaults
+dependencies:
+- python=2.7
+- jupyter
+- notebook
+- tqdm
+- pip
+- pip:
+  - Theano==0.6
+  - Pillow
+  - matplotlib
+
