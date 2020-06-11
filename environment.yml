@@ -4,10 +4,12 @@ channels:
 - conda-forge
 - defaults
 dependencies:
-- python=2.7
+- python=3.6
 - jupyter
 - notebook
 - tqdm
+- scipy=1.4
+- tensorflow=1.5
 - pip
 - pip:
   - Theano==0.6
