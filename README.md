@@ -14,5 +14,5 @@ In case you run into some trouble installing the dependencies take a look at thi
 
 # Directions to Use 
 
-1. Download the AT&T Face Dataset from [here](http://www.cl.cam.ac.uk/research/dtg/attarchive/facedatabase.html)
+1. Download the AT&T Face Dataset from [here](https://www.kaggle.com/kasikrit/att-database-of-faces?select=s1)
 2. Extract the dataset and replace the path variable in the 3rd cell of the inversion notebook. 
